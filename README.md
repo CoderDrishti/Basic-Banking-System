@@ -1,6 +1,6 @@
 # Basic-Banking-System
 # Trust Bank - Basic Banking System 
-Link : https://coderdrishti.github.io/Basic-Banking-System/customer.html
+Link : https://coderdrishti.github.io/Basic-Banking-System/index.html
 
 ## Overview
 Trust Bank is a simple and efficient web application designed to facilitate basic banking operations. This project is developed using HTML, CSS, and JavaScript, and allows users to manage customers and perform fund transfers seamlessly.
